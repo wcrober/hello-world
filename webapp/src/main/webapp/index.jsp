@@ -3,3 +3,16 @@
 <h2> Glad to see you here </h2>
 <p> Say Hello to my little friend </p>
 <p> This is a new line added to demonstrate jenkins auto deploy </p>
+
+<ol>
+  <li> Github </li>
+  <li> Jenkins </li>
+  <li> Ansible </li>
+  <li> Kubernetes </li>
+  <li> Docker </li>
+  <li> Python </li>
+  <li> Shell Script </li>
+  <li> Linux </li>
+
+
+</ol>
